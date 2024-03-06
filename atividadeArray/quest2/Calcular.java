@@ -6,7 +6,7 @@ public class Calcular {
         int soma=0;
         for (int num : numeros) {
             soma= soma +num;
- //vjhgjkgkjb
+ 
         }
         return soma;
     }
